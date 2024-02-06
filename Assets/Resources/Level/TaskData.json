@@ -1,0 +1,56 @@
+{
+	"tasks" :
+	[
+		
+		{
+			"needIndex" : 0,
+
+			"targetNum" : 50,
+
+			"rewardNum" :75
+
+		},
+
+		{
+			"needIndex" : 0,
+
+			"targetNum" : 100,
+
+			"rewardNum" :100
+
+		},
+
+
+		{
+			"needIndex" : 0,
+
+			"targetNum" : 30,
+
+			"rewardNum" :50
+
+		},
+
+
+		{
+			"needIndex" : 0,
+
+			"targetNum" : 200,
+
+			"rewardNum" :300
+
+		},
+
+
+		{
+			"needIndex" : 0,
+
+			"targetNum" : 150,
+
+			"rewardNum" :200
+
+		}
+	],
+
+	"curIndex" :-1
+
+}
